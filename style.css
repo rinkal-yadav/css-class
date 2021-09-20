@@ -1,0 +1,57 @@
+h1{
+    color: red;
+    font-weight: bolder;
+}
+
+h2 {
+    color: orangered;
+    font-weight: 600;
+}
+
+.a{
+    color: brown;
+    line-height: 30pt;
+}
+
+.b{
+    font-weight: bold;
+    text-decoration-line: line-through;
+}
+
+.c{
+    font-weight: bold;
+    background-color: yellow;
+}
+
+
+.d{
+    text-decoration: underline;
+}
+
+
+.e {
+    color: firebrick;
+    letter-spacing: 6px;
+
+}
+
+.f{
+    color: rgba(201, 88, 7, 0.938);
+}
+
+.anchor{
+    font-style: italic;
+    color: red;
+    font-weight: bold;
+    background: yellow;
+    text-decoration: none;
+
+}
+
+.image{
+    margin-left: 40%;
+}
+
+
+
+
